@@ -32,7 +32,7 @@
 </ul>
 <br></br>
 
-<h2>Topic 2:</h2>
+<h2>Topic 2: Exploring Forest Data</h2>
 
 <h3>Datasets:</h3>
 
@@ -53,7 +53,7 @@
 <p>The first question was actually a challenge question on kaggle at one point, so I fear answering that question might be beyond the scope of this capstone project.</p>
 <br></br>
 
-<h2>Topic 3:</h2>
+<h2>Topic 3: An Author By Any Other Name</h2>
 
 <h3>Datasets:</h3>
 
